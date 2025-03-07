@@ -1,0 +1,10 @@
+CREATE OR REPLACE FUNCTION insertar_detalle_usuario()
+RETURNS TRIGGER AS $$
+BEGIN
+    INSERT INTO detalle_usuario (id_usuario, id_caja, fecha_detalle)
+    VALUES (NEW.id_usuario, NEW.id_caja, NEW.fecha_venta);
+    
+    RETURN NEW;
+END;
+
+$$ LANGUAGE plpgsql;

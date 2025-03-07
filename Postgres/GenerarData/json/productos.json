@@ -1,0 +1,282 @@
+[
+    {
+        "id_producto": 9254,
+        "name_producto": "Silla Gamer",
+        "id_provedor": 920932,
+        "price_united": 84.48,
+        "price_publico": 101.38
+    },
+    {
+        "id_producto": 8700,
+        "name_producto": "Micr\u00f3fono",
+        "id_provedor": 900152,
+        "price_united": 123.67,
+        "price_publico": 148.4
+    },
+    {
+        "id_producto": 1436,
+        "name_producto": "Disco Duro",
+        "id_provedor": 834287,
+        "price_united": 386.24,
+        "price_publico": 463.49
+    },
+    {
+        "id_producto": 9448,
+        "name_producto": "Dron",
+        "id_provedor": 915550,
+        "price_united": 470.22,
+        "price_publico": 564.26
+    },
+    {
+        "id_producto": 3484,
+        "name_producto": "Laptop",
+        "id_provedor": 915550,
+        "price_united": 197.47,
+        "price_publico": 236.96
+    },
+    {
+        "id_producto": 1604,
+        "name_producto": "Smartphone",
+        "id_provedor": 815394,
+        "price_united": 379.51,
+        "price_publico": 455.41
+    },
+    {
+        "id_producto": 3387,
+        "name_producto": "Escritorio",
+        "id_provedor": 648557,
+        "price_united": 386.87,
+        "price_publico": 464.24
+    },
+    {
+        "id_producto": 3555,
+        "name_producto": "Estabilizador",
+        "id_provedor": 555127,
+        "price_united": 57.15,
+        "price_publico": 68.58
+    },
+    {
+        "id_producto": 6906,
+        "name_producto": "Cargador",
+        "id_provedor": 939952,
+        "price_united": 293.04,
+        "price_publico": 351.65
+    },
+    {
+        "id_producto": 3863,
+        "name_producto": "Estabilizador",
+        "id_provedor": 791789,
+        "price_united": 206.31,
+        "price_publico": 247.57
+    },
+    {
+        "id_producto": 6312,
+        "name_producto": "Fuente de Alimentaci\u00f3n",
+        "id_provedor": 616497,
+        "price_united": 475.53,
+        "price_publico": 570.64
+    },
+    {
+        "id_producto": 8772,
+        "name_producto": "Router",
+        "id_provedor": 810211,
+        "price_united": 307.47,
+        "price_publico": 368.96
+    },
+    {
+        "id_producto": 5639,
+        "name_producto": "C\u00e1mara de Seguridad",
+        "id_provedor": 648557,
+        "price_united": 150.07,
+        "price_publico": 180.08
+    },
+    {
+        "id_producto": 5726,
+        "name_producto": "Escritorio",
+        "id_provedor": 851473,
+        "price_united": 260.24,
+        "price_publico": 312.29
+    },
+    {
+        "id_producto": 2633,
+        "name_producto": "Ventilador",
+        "id_provedor": 874327,
+        "price_united": 11.76,
+        "price_publico": 14.11
+    },
+    {
+        "id_producto": 8880,
+        "name_producto": "Reloj Inteligente",
+        "id_provedor": 917161,
+        "price_united": 261.43,
+        "price_publico": 313.72
+    },
+    {
+        "id_producto": 1724,
+        "name_producto": "Silla Gamer",
+        "id_provedor": 914258,
+        "price_united": 473.03,
+        "price_publico": 567.64
+    },
+    {
+        "id_producto": 6169,
+        "name_producto": "M\u00f3dem",
+        "id_provedor": 754640,
+        "price_united": 464.76,
+        "price_publico": 557.71
+    },
+    {
+        "id_producto": 6221,
+        "name_producto": "Tablet",
+        "id_provedor": 732498,
+        "price_united": 39.15,
+        "price_publico": 46.98
+    },
+    {
+        "id_producto": 5473,
+        "name_producto": "Procesador",
+        "id_provedor": 917161,
+        "price_united": 391.46,
+        "price_publico": 469.75
+    },
+    {
+        "id_producto": 9840,
+        "name_producto": "Procesador",
+        "id_provedor": 725893,
+        "price_united": 334.95,
+        "price_publico": 401.94
+    },
+    {
+        "id_producto": 5762,
+        "name_producto": "Smartphone",
+        "id_provedor": 603327,
+        "price_united": 477.58,
+        "price_publico": 573.1
+    },
+    {
+        "id_producto": 1761,
+        "name_producto": "Impresora",
+        "id_provedor": 815394,
+        "price_united": 491.53,
+        "price_publico": 589.84
+    },
+    {
+        "id_producto": 3043,
+        "name_producto": "Webcam",
+        "id_provedor": 815394,
+        "price_united": 225.74,
+        "price_publico": 270.89
+    },
+    {
+        "id_producto": 2580,
+        "name_producto": "Router",
+        "id_provedor": 972839,
+        "price_united": 19.87,
+        "price_publico": 23.84
+    },
+    {
+        "id_producto": 8068,
+        "name_producto": "Tarjeta Gr\u00e1fica",
+        "id_provedor": 829378,
+        "price_united": 131.51,
+        "price_publico": 157.81
+    },
+    {
+        "id_producto": 7015,
+        "name_producto": "Joystick",
+        "id_provedor": 754640,
+        "price_united": 313.13,
+        "price_publico": 375.76
+    },
+    {
+        "id_producto": 4084,
+        "name_producto": "Cable USB",
+        "id_provedor": 732498,
+        "price_united": 74.6,
+        "price_publico": 89.52
+    },
+    {
+        "id_producto": 9927,
+        "name_producto": "Tablet",
+        "id_provedor": 780785,
+        "price_united": 62.56,
+        "price_publico": 75.07
+    },
+    {
+        "id_producto": 5516,
+        "name_producto": "Smartphone",
+        "id_provedor": 866425,
+        "price_united": 195.83,
+        "price_publico": 235.0
+    },
+    {
+        "id_producto": 5440,
+        "name_producto": "Bater\u00eda Externa",
+        "id_provedor": 907109,
+        "price_united": 401.4,
+        "price_publico": 481.68
+    },
+    {
+        "id_producto": 2514,
+        "name_producto": "Refrigeraci\u00f3n L\u00edquida",
+        "id_provedor": 575413,
+        "price_united": 407.06,
+        "price_publico": 488.47
+    },
+    {
+        "id_producto": 5226,
+        "name_producto": "Dron",
+        "id_provedor": 577513,
+        "price_united": 240.91,
+        "price_publico": 289.09
+    },
+    {
+        "id_producto": 2161,
+        "name_producto": "Micr\u00f3fono",
+        "id_provedor": 529908,
+        "price_united": 442.31,
+        "price_publico": 530.77
+    },
+    {
+        "id_producto": 6984,
+        "name_producto": "Disco Duro",
+        "id_provedor": 680251,
+        "price_united": 260.93,
+        "price_publico": 313.12
+    },
+    {
+        "id_producto": 2041,
+        "name_producto": "Cable USB",
+        "id_provedor": 939952,
+        "price_united": 40.95,
+        "price_publico": 49.14
+    },
+    {
+        "id_producto": 2272,
+        "name_producto": "Bater\u00eda Externa",
+        "id_provedor": 926075,
+        "price_united": 393.92,
+        "price_publico": 472.7
+    },
+    {
+        "id_producto": 7739,
+        "name_producto": "SSD",
+        "id_provedor": 581428,
+        "price_united": 465.33,
+        "price_publico": 558.4
+    },
+    {
+        "id_producto": 4935,
+        "name_producto": "Procesador",
+        "id_provedor": 573379,
+        "price_united": 493.62,
+        "price_publico": 592.34
+    },
+    {
+        "id_producto": 3216,
+        "name_producto": "Control Remoto",
+        "id_provedor": 680251,
+        "price_united": 170.83,
+        "price_publico": 205.0
+    }
+]

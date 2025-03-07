@@ -1,0 +1,19 @@
+CREATE OR REPLACE FUNCTION insertar_en_stock()
+RETURNS TRIGGER AS $$
+
+BEGIN
+    -- Si la inserción viene de la tabla VENTAS
+    IF TG_TABLE_NAME = 'ventas' THEN
+        INSERT INTO stock (id_compra, id_venta, id_producto, cantidad, total_compra, total_venta, id_usuario)
+        VALUES ( 0, NEW.id_venta, NEW.id_producto, NEW.cantidad_united, 0, NEW.total_venta, NEW.id_usuario);
+    
+    -- Si la inserción viene de la tabla COMPRAS
+    ELSIF TG_TABLE_NAME = 'compra' THEN
+        INSERT INTO stock (id_compra, id_venta, id_producto, cantidad, total_compra, total_venta, id_usuario)
+        VALUES (NEW.id_compra, 0, NEW.id_producto, NEW.cantidad_compra, NEW.total_compra, 0, NEW.id_usuario);
+    END IF;
+
+    RETURN NEW;
+END;
+
+$$ LANGUAGE plpgsql;

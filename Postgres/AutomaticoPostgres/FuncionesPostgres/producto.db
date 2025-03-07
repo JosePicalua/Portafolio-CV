@@ -1,0 +1,9 @@
+CREATE OR REPLACE FUNCTION insertar_producto()
+RETURNS TRIGGER AS $$
+BEGIN
+    INSERT INTO productos (id_producto, name_producto, id_provedor)       
+    VALUES (NEW.id_producto, NEW.detalle_producto, NEW.id_provedor);
+    RETURN NEW;
+END;
+
+$$ LANGUAGE plpgsql;

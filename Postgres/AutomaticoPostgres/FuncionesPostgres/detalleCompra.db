@@ -1,0 +1,10 @@
+CREATE OR REPLACE FUNCTION insertar_detalle_compra()
+RETURNS TRIGGER AS $$
+
+BEGIN
+    INSERT INTO detalle_compra (id_compra, id_producto, id_provedor, fecha_compra, total_compra, cantidad_compra)
+    VALUES (NEW.id_compra, NEW.id_producto, NEW.id_provedor, NEW.fecha_compra, NEW.total_compra, NEW.cantidad_compra);   
+    RETURN NEW;
+END;
+
+$$ LANGUAGE plpgsql;

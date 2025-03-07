@@ -1,0 +1,4 @@
+CREATE TRIGGER trigger_insertar_detalle_compra
+AFTER INSERT ON compra
+FOR EACH ROW
+EXECUTE FUNCTION insertar_detalle_compra();

@@ -1,0 +1,301 @@
+[{
+    "id_usuario": 1,
+    "nombre_completo": "Bride Abramov",
+    "estado": 3,
+    "email": "babramov0@wsj.com",
+    "edad": 23
+  }, {
+    "id_usuario": 2,
+    "nombre_completo": "Haskel Garr",
+    "estado": 1,
+    "email": "hgarr1@opera.com",
+    "edad": 29
+  }, {
+    "id_usuario": 3,
+    "nombre_completo": "Hildagarde Kempston",
+    "estado": 2,
+    "email": "hkempston2@umich.edu",
+    "edad": 19
+  }, {
+    "id_usuario": 4,
+    "nombre_completo": "Kippy Howcroft",
+    "estado": 3,
+    "email": "khowcroft3@examiner.com",
+    "edad": 29
+  }, {
+    "id_usuario": 5,
+    "nombre_completo": "Halette Benedito",
+    "estado": 2,
+    "email": "hbenedito4@pbs.org",
+    "edad": 20
+  }, {
+    "id_usuario": 6,
+    "nombre_completo": "Bud Jaqueme",
+    "estado": 3,
+    "email": "bjaqueme5@unblog.fr",
+    "edad": 22
+  }, {
+    "id_usuario": 7,
+    "nombre_completo": "Micheline Tallach",
+    "estado": 2,
+    "email": "mtallach6@ow.ly",
+    "edad": 28
+  }, {
+    "id_usuario": 8,
+    "nombre_completo": "Tait Kock",
+    "estado": 3,
+    "email": "tkock7@networksolutions.com",
+    "edad": 23
+  }, {
+    "id_usuario": 9,
+    "nombre_completo": "Rufe Filkov",
+    "estado": 1,
+    "email": "rfilkov8@unblog.fr",
+    "edad": 23
+  }, {
+    "id_usuario": 10,
+    "nombre_completo": "Arie Erat",
+    "estado": 1,
+    "email": "aerat9@xrea.com",
+    "edad": 25
+  }, {
+    "id_usuario": 11,
+    "nombre_completo": "Olive Crum",
+    "estado": 1,
+    "email": "ocruma@themeforest.net",
+    "edad": 28
+  }, {
+    "id_usuario": 12,
+    "nombre_completo": "Elyse Pattisson",
+    "estado": 3,
+    "email": "epattissonb@examiner.com",
+    "edad": 19
+  }, {
+    "id_usuario": 13,
+    "nombre_completo": "Sidoney Andrysiak",
+    "estado": 2,
+    "email": "sandrysiakc@pbs.org",
+    "edad": 28
+  }, {
+    "id_usuario": 14,
+    "nombre_completo": "Stephenie Frodsam",
+    "estado": 3,
+    "email": "sfrodsamd@independent.co.uk",
+    "edad": 22
+  }, {
+    "id_usuario": 15,
+    "nombre_completo": "Nesta McCaskell",
+    "estado": 3,
+    "email": "nmccaskelle@washington.edu",
+    "edad": 18
+  }, {
+    "id_usuario": 16,
+    "nombre_completo": "Mead Lillico",
+    "estado": 2,
+    "email": "mlillicof@state.tx.us",
+    "edad": 29
+  }, {
+    "id_usuario": 17,
+    "nombre_completo": "Joshuah Lock",
+    "estado": 3,
+    "email": "jlockg@behance.net",
+    "edad": 18
+  }, {
+    "id_usuario": 18,
+    "nombre_completo": "Lyndsie Teresi",
+    "estado": 2,
+    "email": "lteresih@shinystat.com",
+    "edad": 29
+  }, {
+    "id_usuario": 19,
+    "nombre_completo": "Filide Plaskett",
+    "estado": 3,
+    "email": "fplasketti@hibu.com",
+    "edad": 18
+  }, {
+    "id_usuario": 20,
+    "nombre_completo": "Torrey Wigelsworth",
+    "estado": 3,
+    "email": "twigelsworthj@mapy.cz",
+    "edad": 19
+  }, {
+    "id_usuario": 21,
+    "nombre_completo": "Collete Brisco",
+    "estado": 3,
+    "email": "cbriscok@weebly.com",
+    "edad": 21
+  }, {
+    "id_usuario": 22,
+    "nombre_completo": "Grantham Wandrich",
+    "estado": 2,
+    "email": "gwandrichl@vk.com",
+    "edad": 23
+  }, {
+    "id_usuario": 23,
+    "nombre_completo": "Lillis Longfut",
+    "estado": 1,
+    "email": "llongfutm@state.tx.us",
+    "edad": 20
+  }, {
+    "id_usuario": 24,
+    "nombre_completo": "Brooks Christie",
+    "estado": 3,
+    "email": "bchristien@ebay.com",
+    "edad": 24
+  }, {
+    "id_usuario": 25,
+    "nombre_completo": "Tina Breinlein",
+    "estado": 3,
+    "email": "tbreinleino@thetimes.co.uk",
+    "edad": 23
+  }, {
+    "id_usuario": 26,
+    "nombre_completo": "Benedikta Drinkhall",
+    "estado": 1,
+    "email": "bdrinkhallp@tumblr.com",
+    "edad": 27
+  }, {
+    "id_usuario": 27,
+    "nombre_completo": "Tremain Newsham",
+    "estado": 1,
+    "email": "tnewshamq@taobao.com",
+    "edad": 20
+  }, {
+    "id_usuario": 28,
+    "nombre_completo": "Guntar Hanington",
+    "estado": 3,
+    "email": "ghaningtonr@wsj.com",
+    "edad": 26
+  }, {
+    "id_usuario": 29,
+    "nombre_completo": "Dulcea Hughesdon",
+    "estado": 2,
+    "email": "dhughesdons@chicagotribune.com",
+    "edad": 18
+  }, {
+    "id_usuario": 30,
+    "nombre_completo": "Westbrooke Geibel",
+    "estado": 3,
+    "email": "wgeibelt@discuz.net",
+    "edad": 24
+  }, {
+    "id_usuario": 31,
+    "nombre_completo": "Marlo Stanwix",
+    "estado": 1,
+    "email": "mstanwixu@redcross.org",
+    "edad": 18
+  }, {
+    "id_usuario": 32,
+    "nombre_completo": "Brittany Kliche",
+    "estado": 3,
+    "email": "bklichev@indiatimes.com",
+    "edad": 19
+  }, {
+    "id_usuario": 33,
+    "nombre_completo": "Donnamarie Slad",
+    "estado": 3,
+    "email": "dsladw@scientificamerican.com",
+    "edad": 30
+  }, {
+    "id_usuario": 34,
+    "nombre_completo": "Caresse Hawket",
+    "estado": 3,
+    "email": "chawketx@php.net",
+    "edad": 27
+  }, {
+    "id_usuario": 35,
+    "nombre_completo": "Diarmid Giron",
+    "estado": 3,
+    "email": "dgirony@google.ru",
+    "edad": 23
+  }, {
+    "id_usuario": 36,
+    "nombre_completo": "Michelina Genge",
+    "estado": 1,
+    "email": "mgengez@symantec.com",
+    "edad": 26
+  }, {
+    "id_usuario": 37,
+    "nombre_completo": "Devina Downing",
+    "estado": 3,
+    "email": "ddowning10@goo.gl",
+    "edad": 26
+  }, {
+    "id_usuario": 38,
+    "nombre_completo": "Bobette Wantling",
+    "estado": 3,
+    "email": "bwantling11@arizona.edu",
+    "edad": 28
+  }, {
+    "id_usuario": 39,
+    "nombre_completo": "Kerr Droogan",
+    "estado": 1,
+    "email": "kdroogan12@un.org",
+    "edad": 22
+  }, {
+    "id_usuario": 40,
+    "nombre_completo": "Sheelagh Bemrose",
+    "estado": 3,
+    "email": "sbemrose13@addtoany.com",
+    "edad": 22
+  }, {
+    "id_usuario": 41,
+    "nombre_completo": "Renato O'Connor",
+    "estado": 1,
+    "email": "roconnor14@soundcloud.com",
+    "edad": 23
+  }, {
+    "id_usuario": 42,
+    "nombre_completo": "Iver Burnett",
+    "estado": 3,
+    "email": "iburnett15@fc2.com",
+    "edad": 28
+  }, {
+    "id_usuario": 43,
+    "nombre_completo": "Sherline Pavlata",
+    "estado": 2,
+    "email": "spavlata16@spiegel.de",
+    "edad": 30
+  }, {
+    "id_usuario": 44,
+    "nombre_completo": "Foster Accombe",
+    "estado": 3,
+    "email": "faccombe17@pagesperso-orange.fr",
+    "edad": 23
+  }, {
+    "id_usuario": 45,
+    "nombre_completo": "Pandora Mabbe",
+    "estado": 3,
+    "email": "pmabbe18@meetup.com",
+    "edad": 18
+  }, {
+    "id_usuario": 46,
+    "nombre_completo": "Rockey Cordner",
+    "estado": 2,
+    "email": "rcordner19@cafepress.com",
+    "edad": 25
+  }, {
+    "id_usuario": 47,
+    "nombre_completo": "Fielding Rickis",
+    "estado": 3,
+    "email": "frickis1a@cornell.edu",
+    "edad": 25
+  }, {
+    "id_usuario": 48,
+    "nombre_completo": "Linnea Napoleone",
+    "estado": 3,
+    "email": "lnapoleone1b@i2i.jp",
+    "edad": 28
+  }, {
+    "id_usuario": 49,
+    "nombre_completo": "Weber Roland",
+    "estado": 2,
+    "email": "wroland1c@springer.com",
+    "edad": 28
+  }, {
+    "id_usuario": 50,
+    "nombre_completo": "Caddric Perche",
+    "estado": 1,
+    "email": "cperche1d@twitter.com",
+    "edad": 21
+  }]

@@ -1,0 +1,401 @@
+[{
+    "id_cliente": 1,
+    "nombre_cliente": "Merrili Fominov",
+    "fecha_registro": "2024-11-05"
+  }, {
+    "id_cliente": 2,
+    "nombre_cliente": "Justine Fearnley",
+    "fecha_registro": "2024-12-05"
+  }, {
+    "id_cliente": 3,
+    "nombre_cliente": "Hamilton Feild",
+    "fecha_registro": "2025-02-14"
+  }, {
+    "id_cliente": 4,
+    "nombre_cliente": "Robin Neesham",
+    "fecha_registro": "2024-02-01"
+  }, {
+    "id_cliente": 5,
+    "nombre_cliente": "Pace Inston",
+    "fecha_registro": "2024-10-11"
+  }, {
+    "id_cliente": 6,
+    "nombre_cliente": "Myles Herley",
+    "fecha_registro": "2024-10-22"
+  }, {
+    "id_cliente": 7,
+    "nombre_cliente": "Berty Lammiman",
+    "fecha_registro": "2024-02-11"
+  }, {
+    "id_cliente": 8,
+    "nombre_cliente": "Jordon Cartman",
+    "fecha_registro": "2024-11-06"
+  }, {
+    "id_cliente": 9,
+    "nombre_cliente": "Kahaleel Sollis",
+    "fecha_registro": "2024-01-04"
+  }, {
+    "id_cliente": 10,
+    "nombre_cliente": "Anni Jelks",
+    "fecha_registro": "2024-06-03"
+  }, {
+    "id_cliente": 11,
+    "nombre_cliente": "Jackelyn McMeanma",
+    "fecha_registro": "2025-01-06"
+  }, {
+    "id_cliente": 12,
+    "nombre_cliente": "Samaria Vicarey",
+    "fecha_registro": "2024-07-28"
+  }, {
+    "id_cliente": 13,
+    "nombre_cliente": "Erin Stangroom",
+    "fecha_registro": "2024-11-17"
+  }, {
+    "id_cliente": 14,
+    "nombre_cliente": "Enrique Sharvill",
+    "fecha_registro": "2024-06-17"
+  }, {
+    "id_cliente": 15,
+    "nombre_cliente": "Helen Pietrusiak",
+    "fecha_registro": "2024-03-22"
+  }, {
+    "id_cliente": 16,
+    "nombre_cliente": "Caresse Daines",
+    "fecha_registro": "2024-01-02"
+  }, {
+    "id_cliente": 17,
+    "nombre_cliente": "Morganica Dasent",
+    "fecha_registro": "2024-10-24"
+  }, {
+    "id_cliente": 18,
+    "nombre_cliente": "Armstrong Leete",
+    "fecha_registro": "2024-01-16"
+  }, {
+    "id_cliente": 19,
+    "nombre_cliente": "Doria Haylett",
+    "fecha_registro": "2024-04-30"
+  }, {
+    "id_cliente": 20,
+    "nombre_cliente": "Kori Scramage",
+    "fecha_registro": "2024-06-27"
+  }, {
+    "id_cliente": 21,
+    "nombre_cliente": "Modestine Crayk",
+    "fecha_registro": "2024-12-09"
+  }, {
+    "id_cliente": 22,
+    "nombre_cliente": "Pembroke Sawart",
+    "fecha_registro": "2024-01-02"
+  }, {
+    "id_cliente": 23,
+    "nombre_cliente": "Fulvia Arnaudet",
+    "fecha_registro": "2025-02-17"
+  }, {
+    "id_cliente": 24,
+    "nombre_cliente": "Concettina Roelofs",
+    "fecha_registro": "2025-01-26"
+  }, {
+    "id_cliente": 25,
+    "nombre_cliente": "Anselma McIlhagga",
+    "fecha_registro": "2024-09-01"
+  }, {
+    "id_cliente": 26,
+    "nombre_cliente": "Juditha Lyfield",
+    "fecha_registro": "2024-10-30"
+  }, {
+    "id_cliente": 27,
+    "nombre_cliente": "Ira Eary",
+    "fecha_registro": "2024-12-19"
+  }, {
+    "id_cliente": 28,
+    "nombre_cliente": "Eadie Murgatroyd",
+    "fecha_registro": "2024-08-18"
+  }, {
+    "id_cliente": 29,
+    "nombre_cliente": "Alphonse Imms",
+    "fecha_registro": "2024-01-04"
+  }, {
+    "id_cliente": 30,
+    "nombre_cliente": "Jo Blundon",
+    "fecha_registro": "2024-08-13"
+  }, {
+    "id_cliente": 31,
+    "nombre_cliente": "Khalil Meriton",
+    "fecha_registro": "2025-02-19"
+  }, {
+    "id_cliente": 32,
+    "nombre_cliente": "Max Cumbridge",
+    "fecha_registro": "2024-08-11"
+  }, {
+    "id_cliente": 33,
+    "nombre_cliente": "Kimmi Wickendon",
+    "fecha_registro": "2024-06-17"
+  }, {
+    "id_cliente": 34,
+    "nombre_cliente": "Elnora Temporal",
+    "fecha_registro": "2024-09-06"
+  }, {
+    "id_cliente": 35,
+    "nombre_cliente": "Jeffry Wenman",
+    "fecha_registro": "2024-02-03"
+  }, {
+    "id_cliente": 36,
+    "nombre_cliente": "Derek Malden",
+    "fecha_registro": "2024-11-13"
+  }, {
+    "id_cliente": 37,
+    "nombre_cliente": "Horatio Alexsandrov",
+    "fecha_registro": "2024-06-30"
+  }, {
+    "id_cliente": 38,
+    "nombre_cliente": "Caryl McCaig",
+    "fecha_registro": "2024-09-13"
+  }, {
+    "id_cliente": 39,
+    "nombre_cliente": "Stephine Parysiak",
+    "fecha_registro": "2024-04-07"
+  }, {
+    "id_cliente": 40,
+    "nombre_cliente": "Arvin Klempke",
+    "fecha_registro": "2025-02-04"
+  }, {
+    "id_cliente": 41,
+    "nombre_cliente": "Lucine Eisikowitch",
+    "fecha_registro": "2024-01-13"
+  }, {
+    "id_cliente": 42,
+    "nombre_cliente": "Ellary Abramson",
+    "fecha_registro": "2024-03-15"
+  }, {
+    "id_cliente": 43,
+    "nombre_cliente": "Lynnell Puleston",
+    "fecha_registro": "2025-01-29"
+  }, {
+    "id_cliente": 44,
+    "nombre_cliente": "Carmine Lyddyard",
+    "fecha_registro": "2024-09-25"
+  }, {
+    "id_cliente": 45,
+    "nombre_cliente": "Vera Rigmand",
+    "fecha_registro": "2024-03-25"
+  }, {
+    "id_cliente": 46,
+    "nombre_cliente": "Emmalynne Gunbie",
+    "fecha_registro": "2024-12-26"
+  }, {
+    "id_cliente": 47,
+    "nombre_cliente": "Ellerey Windrum",
+    "fecha_registro": "2024-02-06"
+  }, {
+    "id_cliente": 48,
+    "nombre_cliente": "Marcel Lardiner",
+    "fecha_registro": "2024-08-12"
+  }, {
+    "id_cliente": 49,
+    "nombre_cliente": "Carolin Di Pietro",
+    "fecha_registro": "2024-10-17"
+  }, {
+    "id_cliente": 50,
+    "nombre_cliente": "Gerda Bunton",
+    "fecha_registro": "2024-12-29"
+  }, {
+    "id_cliente": 51,
+    "nombre_cliente": "August Mattocks",
+    "fecha_registro": "2024-07-15"
+  }, {
+    "id_cliente": 52,
+    "nombre_cliente": "Garreth Worman",
+    "fecha_registro": "2024-09-19"
+  }, {
+    "id_cliente": 53,
+    "nombre_cliente": "Tresa Yakubovics",
+    "fecha_registro": "2024-09-09"
+  }, {
+    "id_cliente": 54,
+    "nombre_cliente": "Hube Pastor",
+    "fecha_registro": "2024-08-22"
+  }, {
+    "id_cliente": 55,
+    "nombre_cliente": "Maryanne Crab",
+    "fecha_registro": "2024-06-10"
+  }, {
+    "id_cliente": 56,
+    "nombre_cliente": "Valida Carnall",
+    "fecha_registro": "2024-03-17"
+  }, {
+    "id_cliente": 57,
+    "nombre_cliente": "Bryon Larner",
+    "fecha_registro": "2024-09-09"
+  }, {
+    "id_cliente": 58,
+    "nombre_cliente": "Vanessa Byrth",
+    "fecha_registro": "2025-02-12"
+  }, {
+    "id_cliente": 59,
+    "nombre_cliente": "Mattheus Eneas",
+    "fecha_registro": "2024-11-13"
+  }, {
+    "id_cliente": 60,
+    "nombre_cliente": "Philippe Griffitt",
+    "fecha_registro": "2024-04-02"
+  }, {
+    "id_cliente": 61,
+    "nombre_cliente": "Phyllys D'Abbot-Doyle",
+    "fecha_registro": "2024-10-14"
+  }, {
+    "id_cliente": 62,
+    "nombre_cliente": "Faye Steagall",
+    "fecha_registro": "2025-02-03"
+  }, {
+    "id_cliente": 63,
+    "nombre_cliente": "Aland Frearson",
+    "fecha_registro": "2024-08-26"
+  }, {
+    "id_cliente": 64,
+    "nombre_cliente": "Pincas Grassi",
+    "fecha_registro": "2024-07-15"
+  }, {
+    "id_cliente": 65,
+    "nombre_cliente": "Rick Liversley",
+    "fecha_registro": "2024-02-24"
+  }, {
+    "id_cliente": 66,
+    "nombre_cliente": "Sybilla Verma",
+    "fecha_registro": "2024-03-02"
+  }, {
+    "id_cliente": 67,
+    "nombre_cliente": "Debor Paumier",
+    "fecha_registro": "2024-12-28"
+  }, {
+    "id_cliente": 68,
+    "nombre_cliente": "Bevan Killen",
+    "fecha_registro": "2025-01-14"
+  }, {
+    "id_cliente": 69,
+    "nombre_cliente": "Chickie Cogzell",
+    "fecha_registro": "2024-04-20"
+  }, {
+    "id_cliente": 70,
+    "nombre_cliente": "Sully MacGahey",
+    "fecha_registro": "2024-04-23"
+  }, {
+    "id_cliente": 71,
+    "nombre_cliente": "Janela Bonnor",
+    "fecha_registro": "2024-06-20"
+  }, {
+    "id_cliente": 72,
+    "nombre_cliente": "Mendie Maskall",
+    "fecha_registro": "2024-11-01"
+  }, {
+    "id_cliente": 73,
+    "nombre_cliente": "Rex Le Barre",
+    "fecha_registro": "2024-01-11"
+  }, {
+    "id_cliente": 74,
+    "nombre_cliente": "Melesa Freckelton",
+    "fecha_registro": "2024-08-18"
+  }, {
+    "id_cliente": 75,
+    "nombre_cliente": "Rhody Beddoes",
+    "fecha_registro": "2025-02-25"
+  }, {
+    "id_cliente": 76,
+    "nombre_cliente": "Margaretta Eccleston",
+    "fecha_registro": "2025-01-25"
+  }, {
+    "id_cliente": 77,
+    "nombre_cliente": "Evan Bilyard",
+    "fecha_registro": "2024-05-10"
+  }, {
+    "id_cliente": 78,
+    "nombre_cliente": "Sandy Mantram",
+    "fecha_registro": "2024-04-03"
+  }, {
+    "id_cliente": 79,
+    "nombre_cliente": "Jerry Duigan",
+    "fecha_registro": "2024-08-09"
+  }, {
+    "id_cliente": 80,
+    "nombre_cliente": "Ely Tournie",
+    "fecha_registro": "2024-07-31"
+  }, {
+    "id_cliente": 81,
+    "nombre_cliente": "Perry Baudi",
+    "fecha_registro": "2024-09-01"
+  }, {
+    "id_cliente": 82,
+    "nombre_cliente": "Sydney Jakaway",
+    "fecha_registro": "2024-11-08"
+  }, {
+    "id_cliente": 83,
+    "nombre_cliente": "Halette Fasey",
+    "fecha_registro": "2024-03-24"
+  }, {
+    "id_cliente": 84,
+    "nombre_cliente": "Emmett Sculpher",
+    "fecha_registro": "2024-05-08"
+  }, {
+    "id_cliente": 85,
+    "nombre_cliente": "Maxwell Werrit",
+    "fecha_registro": "2024-02-18"
+  }, {
+    "id_cliente": 86,
+    "nombre_cliente": "Trey Doppler",
+    "fecha_registro": "2024-11-21"
+  }, {
+    "id_cliente": 87,
+    "nombre_cliente": "Kahaleel Finlayson",
+    "fecha_registro": "2024-09-29"
+  }, {
+    "id_cliente": 88,
+    "nombre_cliente": "Elfreda O'Crevan",
+    "fecha_registro": "2024-03-12"
+  }, {
+    "id_cliente": 89,
+    "nombre_cliente": "Abeu Bagley",
+    "fecha_registro": "2024-01-18"
+  }, {
+    "id_cliente": 90,
+    "nombre_cliente": "Corliss Snailham",
+    "fecha_registro": "2025-03-03"
+  }, {
+    "id_cliente": 91,
+    "nombre_cliente": "Blane Prose",
+    "fecha_registro": "2024-04-08"
+  }, {
+    "id_cliente": 92,
+    "nombre_cliente": "Sutherlan Curman",
+    "fecha_registro": "2024-02-13"
+  }, {
+    "id_cliente": 93,
+    "nombre_cliente": "Trevor Belk",
+    "fecha_registro": "2024-10-16"
+  }, {
+    "id_cliente": 94,
+    "nombre_cliente": "Freedman Medland",
+    "fecha_registro": "2024-10-17"
+  }, {
+    "id_cliente": 95,
+    "nombre_cliente": "Costanza Summerscales",
+    "fecha_registro": "2024-08-10"
+  }, {
+    "id_cliente": 96,
+    "nombre_cliente": "Rory Filisov",
+    "fecha_registro": "2024-12-15"
+  }, {
+    "id_cliente": 97,
+    "nombre_cliente": "Kurt Deetch",
+    "fecha_registro": "2025-01-01"
+  }, {
+    "id_cliente": 98,
+    "nombre_cliente": "Lissie Jiri",
+    "fecha_registro": "2024-10-23"
+  }, {
+    "id_cliente": 99,
+    "nombre_cliente": "Bibby Caudrey",
+    "fecha_registro": "2024-12-30"
+  }, {
+    "id_cliente": 100,
+    "nombre_cliente": "Karine Caldayrou",
+    "fecha_registro": "2024-06-08"
+  }]

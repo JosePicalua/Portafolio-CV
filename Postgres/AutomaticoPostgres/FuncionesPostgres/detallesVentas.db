@@ -1,0 +1,9 @@
+CREATE OR REPLACE FUNCTION insertar_detalle_venta()
+RETURNS TRIGGER AS $$
+BEGIN
+    INSERT INTO detalle_ventas (id_venta, id_producto, id_cliente, id_usuario, id_caja, total_venta, fecha_venta, metodo_pago)
+    VALUES (NEW.id_venta, NEW.id_producto, NEW.id_cliente, NEW.id_usuario, NEW.id_caja, NEW.total_venta, NEW.fecha_venta, NEW.metodo_pago);
+    
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;

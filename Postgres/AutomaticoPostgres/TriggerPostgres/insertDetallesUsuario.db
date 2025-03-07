@@ -1,0 +1,4 @@
+CREATE TRIGGER trg_insert_detalle_usuario
+AFTER INSERT ON ventas
+FOR EACH ROW
+EXECUTE FUNCTION insertar_detalle_usuario();

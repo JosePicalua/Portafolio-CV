@@ -1,0 +1,501 @@
+[{
+    "id_provedor": 652081,
+    "nombre_provedor": "Preferred Pharmaceuticals, Inc.",
+    "fecha_ingreso": "2025-03-04",
+    "categoria": "China"
+  }, {
+    "id_provedor": 584633,
+    "nombre_provedor": "Natures Investment Holdings Pty Ltd dba Maxrelief USA",
+    "fecha_ingreso": "2024-12-03",
+    "categoria": "China"
+  }, {
+    "id_provedor": 725893,
+    "nombre_provedor": "Ranbaxy Pharmaceuticals Inc.",
+    "fecha_ingreso": "2025-02-11",
+    "categoria": "China"
+  }, {
+    "id_provedor": 529908,
+    "nombre_provedor": "Apotex Corp",
+    "fecha_ingreso": "2024-11-20",
+    "categoria": "France"
+  }, {
+    "id_provedor": 900569,
+    "nombre_provedor": "ALK-Abello, Inc.",
+    "fecha_ingreso": "2025-01-30",
+    "categoria": "China"
+  }, {
+    "id_provedor": 756867,
+    "nombre_provedor": "REMEDYREPACK INC.",
+    "fecha_ingreso": "2024-05-19",
+    "categoria": "France"
+  }, {
+    "id_provedor": 914258,
+    "nombre_provedor": "Physicians Total Care, Inc.",
+    "fecha_ingreso": "2024-05-01",
+    "categoria": "China"
+  }, {
+    "id_provedor": 654109,
+    "nombre_provedor": "Cosmecca Korea Co., Ltd.",
+    "fecha_ingreso": "2023-11-07",
+    "categoria": "China"
+  }, {
+    "id_provedor": 732498,
+    "nombre_provedor": "Graceway Pharmaceuticals, LLC",
+    "fecha_ingreso": "2024-03-20",
+    "categoria": "China"
+  }, {
+    "id_provedor": 616497,
+    "nombre_provedor": "McKesson",
+    "fecha_ingreso": "2024-05-20",
+    "categoria": "China"
+  }, {
+    "id_provedor": 972839,
+    "nombre_provedor": "West-ward Pharmaceutical Corp",
+    "fecha_ingreso": "2024-03-05",
+    "categoria": "Japan"
+  }, {
+    "id_provedor": 849115,
+    "nombre_provedor": "Meijer Distribution Inc",
+    "fecha_ingreso": "2024-07-16",
+    "categoria": "China"
+  }, {
+    "id_provedor": 958623,
+    "nombre_provedor": "Bolero Home Decor, Inc.",
+    "fecha_ingreso": "2023-11-12",
+    "categoria": "China"
+  }, {
+    "id_provedor": 555127,
+    "nombre_provedor": "SHISEIDO CO., LTD.",
+    "fecha_ingreso": "2024-07-09",
+    "categoria": "United States"
+  }, {
+    "id_provedor": 514167,
+    "nombre_provedor": "Actavis Pharma, Inc.",
+    "fecha_ingreso": "2025-02-19",
+    "categoria": "China"
+  }, {
+    "id_provedor": 577513,
+    "nombre_provedor": "BioActive Nutritional",
+    "fecha_ingreso": "2024-11-26",
+    "categoria": "China"
+  }, {
+    "id_provedor": 956213,
+    "nombre_provedor": "Rebel Distributors Corp",
+    "fecha_ingreso": "2024-06-03",
+    "categoria": "France"
+  }, {
+    "id_provedor": 896869,
+    "nombre_provedor": "Natural Health Supply",
+    "fecha_ingreso": "2024-05-09",
+    "categoria": "United States"
+  }, {
+    "id_provedor": 654199,
+    "nombre_provedor": "Liberty Pharmaceuticals, Inc.",
+    "fecha_ingreso": "2025-01-18",
+    "categoria": "China"
+  }, {
+    "id_provedor": 824127,
+    "nombre_provedor": "Uriel Pharmacy Inc.",
+    "fecha_ingreso": "2024-03-02",
+    "categoria": "China"
+  }, {
+    "id_provedor": 535439,
+    "nombre_provedor": "Mylan Pharmaceuticals Inc.",
+    "fecha_ingreso": "2024-03-03",
+    "categoria": "China"
+  }, {
+    "id_provedor": 915550,
+    "nombre_provedor": "Clinical Solutions Wholesale",
+    "fecha_ingreso": "2024-10-10",
+    "categoria": "China"
+  }, {
+    "id_provedor": 854921,
+    "nombre_provedor": "Medimetriks Pharmaceuticals, Inc.",
+    "fecha_ingreso": "2024-11-08",
+    "categoria": "China"
+  }, {
+    "id_provedor": 655625,
+    "nombre_provedor": "Nelco Laboratories, Inc.",
+    "fecha_ingreso": "2025-01-28",
+    "categoria": "China"
+  }, {
+    "id_provedor": 829378,
+    "nombre_provedor": "Nelco Laboratories, Inc.",
+    "fecha_ingreso": "2023-12-26",
+    "categoria": "China"
+  }, {
+    "id_provedor": 754640,
+    "nombre_provedor": "Diversey, Inc.",
+    "fecha_ingreso": "2023-10-19",
+    "categoria": "United States"
+  }, {
+    "id_provedor": 575413,
+    "nombre_provedor": "Genuine First Aid",
+    "fecha_ingreso": "2024-02-29",
+    "categoria": "China"
+  }, {
+    "id_provedor": 708674,
+    "nombre_provedor": "Guerlain S.A.",
+    "fecha_ingreso": "2024-08-25",
+    "categoria": "China"
+  }, {
+    "id_provedor": 939952,
+    "nombre_provedor": "Unifirst First Aid Corporation",
+    "fecha_ingreso": "2023-09-05",
+    "categoria": "Japan"
+  }, {
+    "id_provedor": 834287,
+    "nombre_provedor": "Aton Pharma, Inc.",
+    "fecha_ingreso": "2024-12-19",
+    "categoria": "China"
+  }, {
+    "id_provedor": 791789,
+    "nombre_provedor": "Jubilant HollisterStier LLC",
+    "fecha_ingreso": "2023-09-18",
+    "categoria": "China"
+  }, {
+    "id_provedor": 575727,
+    "nombre_provedor": "St Marys Medical Park Pharmacy",
+    "fecha_ingreso": "2024-10-19",
+    "categoria": "China"
+  }, {
+    "id_provedor": 859897,
+    "nombre_provedor": "WALGREEN CO.",
+    "fecha_ingreso": "2023-11-30",
+    "categoria": "China"
+  }, {
+    "id_provedor": 847010,
+    "nombre_provedor": "Meijer Distribution Inc",
+    "fecha_ingreso": "2023-11-27",
+    "categoria": "China"
+  }, {
+    "id_provedor": 520194,
+    "nombre_provedor": "Novartis Consumer Health, Inc.",
+    "fecha_ingreso": "2025-02-26",
+    "categoria": "Japan"
+  }, {
+    "id_provedor": 810604,
+    "nombre_provedor": "Air Liquide America Specialty Gases LLC",
+    "fecha_ingreso": "2024-12-03",
+    "categoria": "Japan"
+  }, {
+    "id_provedor": 508858,
+    "nombre_provedor": "Roxane Laboratories, Inc",
+    "fecha_ingreso": "2024-11-13",
+    "categoria": "China"
+  }, {
+    "id_provedor": 960228,
+    "nombre_provedor": "Cantrell Drug Company",
+    "fecha_ingreso": "2024-07-22",
+    "categoria": "China"
+  }, {
+    "id_provedor": 907109,
+    "nombre_provedor": "REMEDYREPACK INC.",
+    "fecha_ingreso": "2025-01-17",
+    "categoria": "China"
+  }, {
+    "id_provedor": 752778,
+    "nombre_provedor": "Aidarex Pharmaceuticals LLC",
+    "fecha_ingreso": "2025-01-13",
+    "categoria": "United States"
+  }, {
+    "id_provedor": 643732,
+    "nombre_provedor": "Topco Associates LLC",
+    "fecha_ingreso": "2024-07-12",
+    "categoria": "France"
+  }, {
+    "id_provedor": 713099,
+    "nombre_provedor": "Ascend Laboratories, LLC",
+    "fecha_ingreso": "2024-12-20",
+    "categoria": "Japan"
+  }, {
+    "id_provedor": 962332,
+    "nombre_provedor": "THEFACESHOP CO., LTD.",
+    "fecha_ingreso": "2025-02-05",
+    "categoria": "China"
+  }, {
+    "id_provedor": 851473,
+    "nombre_provedor": "NANDA CO., LTD.",
+    "fecha_ingreso": "2024-05-17",
+    "categoria": "China"
+  }, {
+    "id_provedor": 926075,
+    "nombre_provedor": "OHM PHARMA INC.",
+    "fecha_ingreso": "2024-11-05",
+    "categoria": "China"
+  }, {
+    "id_provedor": 679742,
+    "nombre_provedor": "Conopco Inc. d/b/a Unilever",
+    "fecha_ingreso": "2024-07-29",
+    "categoria": "China"
+  }, {
+    "id_provedor": 512220,
+    "nombre_provedor": "CVS Pharmacy",
+    "fecha_ingreso": "2024-09-11",
+    "categoria": "Japan"
+  }, {
+    "id_provedor": 792454,
+    "nombre_provedor": "Apotheca Company",
+    "fecha_ingreso": "2024-01-12",
+    "categoria": "China"
+  }, {
+    "id_provedor": 601994,
+    "nombre_provedor": "Cardinal Health",
+    "fecha_ingreso": "2023-12-04",
+    "categoria": "Japan"
+  }, {
+    "id_provedor": 653520,
+    "nombre_provedor": "REMEDYREPACK INC.",
+    "fecha_ingreso": "2025-01-13",
+    "categoria": "China"
+  }, {
+    "id_provedor": 769329,
+    "nombre_provedor": "UDL Laboratories, Inc.",
+    "fecha_ingreso": "2024-10-17",
+    "categoria": "United States"
+  }, {
+    "id_provedor": 900152,
+    "nombre_provedor": "Remedy Makers",
+    "fecha_ingreso": "2023-10-22",
+    "categoria": "Japan"
+  }, {
+    "id_provedor": 743121,
+    "nombre_provedor": "McKesson Medical-Surgical Inc.",
+    "fecha_ingreso": "2024-11-21",
+    "categoria": "China"
+  }, {
+    "id_provedor": 609309,
+    "nombre_provedor": "Feelgood Health",
+    "fecha_ingreso": "2023-12-04",
+    "categoria": "Japan"
+  }, {
+    "id_provedor": 707319,
+    "nombre_provedor": "Elements Personal Care, Inc.",
+    "fecha_ingreso": "2024-08-05",
+    "categoria": "China"
+  }, {
+    "id_provedor": 875719,
+    "nombre_provedor": "McKesson",
+    "fecha_ingreso": "2024-10-09",
+    "categoria": "United States"
+  }, {
+    "id_provedor": 980135,
+    "nombre_provedor": "General Injectables & Vaccines, Inc",
+    "fecha_ingreso": "2025-01-31",
+    "categoria": "United States"
+  }, {
+    "id_provedor": 841733,
+    "nombre_provedor": "Nelco Laboratories, Inc.",
+    "fecha_ingreso": "2024-07-16",
+    "categoria": "China"
+  }, {
+    "id_provedor": 598147,
+    "nombre_provedor": "Physicians Total Care, Inc.",
+    "fecha_ingreso": "2024-12-06",
+    "categoria": "China"
+  }, {
+    "id_provedor": 982639,
+    "nombre_provedor": "USPharmaCo",
+    "fecha_ingreso": "2023-12-18",
+    "categoria": "China"
+  }, {
+    "id_provedor": 590306,
+    "nombre_provedor": "WAL-MART STORES INC.",
+    "fecha_ingreso": "2025-02-08",
+    "categoria": "China"
+  }, {
+    "id_provedor": 646620,
+    "nombre_provedor": "McKesson",
+    "fecha_ingreso": "2024-02-02",
+    "categoria": "China"
+  }, {
+    "id_provedor": 866425,
+    "nombre_provedor": "Ony, Inc.",
+    "fecha_ingreso": "2024-12-28",
+    "categoria": "China"
+  }, {
+    "id_provedor": 817249,
+    "nombre_provedor": "Mallinckrodt, Inc.",
+    "fecha_ingreso": "2024-04-13",
+    "categoria": "China"
+  }, {
+    "id_provedor": 590563,
+    "nombre_provedor": "Clinical Solutions Wholesale",
+    "fecha_ingreso": "2024-06-18",
+    "categoria": "China"
+  }, {
+    "id_provedor": 791861,
+    "nombre_provedor": "LG Household and Healthcare, Inc.",
+    "fecha_ingreso": "2024-09-04",
+    "categoria": "China"
+  }, {
+    "id_provedor": 665850,
+    "nombre_provedor": "Procter & Gamble Manufacturing Company",
+    "fecha_ingreso": "2024-04-27",
+    "categoria": "China"
+  }, {
+    "id_provedor": 603327,
+    "nombre_provedor": "Mylan Institutional LLC",
+    "fecha_ingreso": "2024-07-10",
+    "categoria": "China"
+  }, {
+    "id_provedor": 934863,
+    "nombre_provedor": "Rouses Point Pharm",
+    "fecha_ingreso": "2024-03-27",
+    "categoria": "China"
+  }, {
+    "id_provedor": 515836,
+    "nombre_provedor": "Natural Health Supply",
+    "fecha_ingreso": "2025-01-17",
+    "categoria": "China"
+  }, {
+    "id_provedor": 810933,
+    "nombre_provedor": "IASO Inc",
+    "fecha_ingreso": "2024-09-13",
+    "categoria": "France"
+  }, {
+    "id_provedor": 815394,
+    "nombre_provedor": "ORIGINS NATURAL RESOURCES INC.",
+    "fecha_ingreso": "2024-01-08",
+    "categoria": "China"
+  }, {
+    "id_provedor": 999447,
+    "nombre_provedor": "ABC Compounding Co., Inc.",
+    "fecha_ingreso": "2024-08-20",
+    "categoria": "Japan"
+  }, {
+    "id_provedor": 565883,
+    "nombre_provedor": "Energetix Corp",
+    "fecha_ingreso": "2024-05-17",
+    "categoria": "China"
+  }, {
+    "id_provedor": 810211,
+    "nombre_provedor": "SHISEIDO CO., LTD.",
+    "fecha_ingreso": "2023-12-14",
+    "categoria": "France"
+  }, {
+    "id_provedor": 520657,
+    "nombre_provedor": "Aurobindo Pharma Limited",
+    "fecha_ingreso": "2024-12-30",
+    "categoria": "China"
+  }, {
+    "id_provedor": 874327,
+    "nombre_provedor": "CVS Pharmacy",
+    "fecha_ingreso": "2024-04-17",
+    "categoria": "France"
+  }, {
+    "id_provedor": 906719,
+    "nombre_provedor": "HANBUL COSMETICS CO., LTD.",
+    "fecha_ingreso": "2024-02-24",
+    "categoria": "United States"
+  }, {
+    "id_provedor": 652217,
+    "nombre_provedor": "Purdue Products LP",
+    "fecha_ingreso": "2024-10-18",
+    "categoria": "China"
+  }, {
+    "id_provedor": 648557,
+    "nombre_provedor": "Precision Dose Inc.",
+    "fecha_ingreso": "2024-02-23",
+    "categoria": "France"
+  }, {
+    "id_provedor": 780785,
+    "nombre_provedor": "Bristol-Myers Squibb Company",
+    "fecha_ingreso": "2023-11-20",
+    "categoria": "China"
+  }, {
+    "id_provedor": 581428,
+    "nombre_provedor": "Preferred Pharmaceuticals, Inc",
+    "fecha_ingreso": "2024-08-12",
+    "categoria": "China"
+  }, {
+    "id_provedor": 737434,
+    "nombre_provedor": "Natural Creations, Inc.",
+    "fecha_ingreso": "2024-10-10",
+    "categoria": "Japan"
+  }, {
+    "id_provedor": 966368,
+    "nombre_provedor": "Keltman Pharmaceuticals Inc.",
+    "fecha_ingreso": "2024-12-19",
+    "categoria": "China"
+  }, {
+    "id_provedor": 680251,
+    "nombre_provedor": "STAT RX USA LLC",
+    "fecha_ingreso": "2024-07-11",
+    "categoria": "China"
+  }, {
+    "id_provedor": 573379,
+    "nombre_provedor": "Parfums Christian Dior",
+    "fecha_ingreso": "2024-06-08",
+    "categoria": "China"
+  }, {
+    "id_provedor": 872444,
+    "nombre_provedor": "Target Corporation",
+    "fecha_ingreso": "2025-02-13",
+    "categoria": "United States"
+  }, {
+    "id_provedor": 535109,
+    "nombre_provedor": "Medtech Products Inc.",
+    "fecha_ingreso": "2024-05-03",
+    "categoria": "China"
+  }, {
+    "id_provedor": 974775,
+    "nombre_provedor": "Avon Products, Inc",
+    "fecha_ingreso": "2024-02-13",
+    "categoria": "China"
+  }, {
+    "id_provedor": 676164,
+    "nombre_provedor": "NorthStar Rx LLC",
+    "fecha_ingreso": "2025-02-28",
+    "categoria": "China"
+  }, {
+    "id_provedor": 869197,
+    "nombre_provedor": "L.N.K. International, Inc.",
+    "fecha_ingreso": "2025-01-12",
+    "categoria": "France"
+  }, {
+    "id_provedor": 935653,
+    "nombre_provedor": "WALGREEN CO.",
+    "fecha_ingreso": "2023-11-26",
+    "categoria": "China"
+  }, {
+    "id_provedor": 920932,
+    "nombre_provedor": "Watson Pharma, Inc.",
+    "fecha_ingreso": "2024-01-15",
+    "categoria": "China"
+  }, {
+    "id_provedor": 992432,
+    "nombre_provedor": "Deb USA, Inc.",
+    "fecha_ingreso": "2024-06-24",
+    "categoria": "China"
+  }, {
+    "id_provedor": 521964,
+    "nombre_provedor": "Natural Health Supply",
+    "fecha_ingreso": "2024-01-19",
+    "categoria": "China"
+  }, {
+    "id_provedor": 917161,
+    "nombre_provedor": "Lupin Pharmaceuticals, Inc.",
+    "fecha_ingreso": "2024-05-05",
+    "categoria": "China"
+  }, {
+    "id_provedor": 591355,
+    "nombre_provedor": "US WorldMeds, LLC",
+    "fecha_ingreso": "2024-07-18",
+    "categoria": "France"
+  }, {
+    "id_provedor": 737614,
+    "nombre_provedor": "REMEDYREPACK INC.",
+    "fecha_ingreso": "2023-12-14",
+    "categoria": "China"
+  }, {
+    "id_provedor": 976794,
+    "nombre_provedor": "MedVantx, Inc.",
+    "fecha_ingreso": "2025-01-20",
+    "categoria": "China"
+  }, {
+    "id_provedor": 796573,
+    "nombre_provedor": "NCS HealthCare of KY, Inc dba Vangard Labs",
+    "fecha_ingreso": "2025-01-28",
+    "categoria": "China"
+  }]

@@ -1,0 +1,4 @@
+CREATE TRIGGER trg_insert_producto
+AFTER INSERT ON compra
+FOR EACH ROW
+EXECUTE FUNCTION insertar_producto();

@@ -1,0 +1,4 @@
+CREATE TRIGGER trg_insert_stock_ventas
+AFTER INSERT ON ventas
+FOR EACH ROW
+EXECUTE FUNCTION insertar_en_stock();
